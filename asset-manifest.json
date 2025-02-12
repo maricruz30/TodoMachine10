@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TodoMachine10/static/css/main.aaba8a2d.css",
+    "main.js": "/TodoMachine10/static/js/main.661ed1d1.js",
+    "index.html": "/TodoMachine10/index.html",
+    "static/media/delete.svg": "/TodoMachine10/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/TodoMachine10/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.aaba8a2d.css.map": "/TodoMachine10/static/css/main.aaba8a2d.css.map",
+    "main.661ed1d1.js.map": "/TodoMachine10/static/js/main.661ed1d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaba8a2d.css",
+    "static/js/main.661ed1d1.js"
+  ]
+}
